@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="edu.metrostate.todolist.Test">
+    <children>
+        <VBox>
+            <children>
+                <Label text="Dealer's Pal">
+                    <font>
+                        <Font name="Arial Black" size="18.0"/>
+                    </font>
+                </Label>
+                <HBox>
+                    <children>
+                        <VBox>
+                            <children>
+                                <Label text="View Inventory">
+                                    <font>
+                                        <Font name="Arial" size="14.0"/>
+                                    </font>
+                                </Label>
+                                <Label text="Add Vehicle">
+                                    <font>
+                                        <Font name="Arial" size="14.0"/>
+                                    </font>
+                                </Label>
+                                <Label text="Start Vehicle Sales Forms">
+                                    <font>
+                                        <Font name="Arial" size="14.0"/>
+                                    </font>
+                                </Label>
+                                <Label text="Enter Customer Information">
+                                    <font>
+                                        <Font name="Arial" size="14.0"/>
+                                    </font>
+                                </Label>
+                            </children>
+                        </VBox>
+                    </children>
+                </HBox>
+            </children>
+        </VBox>
+    </children>
+</AnchorPane>
