@@ -17,7 +17,7 @@
         <Button onAction="#applyFilter" text="Apply"/>
     </HBox>
 
-    <Text text="To Do List"/>
+    <Text text="The Super To Do List"/>
     <ListView fx:id="todoList"/>
 
 
